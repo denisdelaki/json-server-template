@@ -4,15 +4,15 @@
       "id": 1,
       "movie": "Good will Hunting",
       "star": "Sean Maguire",
-      "url": "https://everydaypower.com/wp-content/uploads/2019/05/Famous-quotes-from-movies-768x768.jpg",
-      "favorite": false
+      "url": "https://everydaypower.com/wp-content/uploads/2019/05/Famous-quotes-from-movies-768x768.jpg"
+     
     },
     {
       "id": 2,
       "movie": "Fight Club",
       "star": "Tyler Durden",
-      "url": "https://everydaypower.com/wp-content/uploads/2019/05/Famous-quotes-from-movies-to-inspire-you-768x768.jpg",
-      "favorite": false
+      "url": "https://everydaypower.com/wp-content/uploads/2019/05/Famous-quotes-from-movies-to-inspire-you-768x768.jpg"
+     
     },
     {
       "id": 3,
